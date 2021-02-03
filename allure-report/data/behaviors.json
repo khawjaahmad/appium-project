@@ -1,0 +1,82 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "Regression Test",
+    "children" : [ {
+      "name" : "Complaint Feature",
+      "children" : [ {
+        "name" : "Complaint Screen Check",
+        "children" : [ {
+          "name" : "User will be able to tap on PIN",
+          "uid" : "c95b51c388d865fd",
+          "parentUid" : "4cdb37275f6f466dc6e4ac8e91e6f772",
+          "status" : "passed",
+          "time" : {
+            "start" : 1611952625917,
+            "stop" : 1611952628559,
+            "duration" : 2642
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "4cdb37275f6f466dc6e4ac8e91e6f772"
+      }, {
+        "name" : "User will be able to select first Image",
+        "uid" : "edbe5c40457bf3df",
+        "parentUid" : "60ae8121d858eae64e7cef3082e40518",
+        "status" : "passed",
+        "time" : {
+          "start" : 1611952628607,
+          "stop" : 1611952650392,
+          "duration" : 21785
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "User will be able to select second Image",
+        "uid" : "8910d6c06869db98",
+        "parentUid" : "60ae8121d858eae64e7cef3082e40518",
+        "status" : "passed",
+        "time" : {
+          "start" : 1611952650407,
+          "stop" : 1611952665624,
+          "duration" : 15217
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "User will be able to select second Image",
+        "uid" : "46aab6e14e69de8",
+        "parentUid" : "60ae8121d858eae64e7cef3082e40518",
+        "status" : "passed",
+        "time" : {
+          "start" : 1611952665633,
+          "stop" : 1611952681043,
+          "duration" : 15410
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "User will be able to select fourth Image",
+        "uid" : "8c939a93bfa22560",
+        "parentUid" : "60ae8121d858eae64e7cef3082e40518",
+        "status" : "passed",
+        "time" : {
+          "start" : 1611952681057,
+          "stop" : 1611952696729,
+          "duration" : 15672
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "60ae8121d858eae64e7cef3082e40518"
+    } ],
+    "uid" : "4ec242477f64dbad10ea90f28e043795"
+  } ]
+}

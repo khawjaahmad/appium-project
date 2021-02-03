@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="86188" started-at="2021-01-30T00:36:50 GST" finished-at="2021-01-30T00:38:16 GST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="86188" started-at="2021-01-30T00:36:50 GST" finished-at="2021-01-30T00:38:16 GST">
+      <class name="com.ekar.tests.ekarTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.ekar.tests.ekarTest@34b7ac2f]" name="setup" is-config="true" duration-ms="15139" started-at="2021-01-30T00:36:50 GST" finished-at="2021-01-30T00:37:05 GST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="PinCheck()[pri:0, instance:com.ekar.tests.ekarTest@34b7ac2f]" name="PinCheck" duration-ms="2675" started-at="2021-01-30T00:37:05 GST" description="User will be able to tap on PIN" finished-at="2021-01-30T00:37:08 GST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PinCheck -->
+        <test-method status="PASS" signature="FirstImage()[pri:1, instance:com.ekar.tests.ekarTest@34b7ac2f]" name="FirstImage" duration-ms="21786" started-at="2021-01-30T00:37:08 GST" description="User will be able to select first Image" finished-at="2021-01-30T00:37:30 GST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FirstImage -->
+        <test-method status="PASS" signature="SecondImage()[pri:2, instance:com.ekar.tests.ekarTest@34b7ac2f]" name="SecondImage" duration-ms="15230" started-at="2021-01-30T00:37:30 GST" description="User will be able to select second Image" finished-at="2021-01-30T00:37:45 GST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SecondImage -->
+        <test-method status="PASS" signature="ThirdImage()[pri:3, instance:com.ekar.tests.ekarTest@34b7ac2f]" name="ThirdImage" duration-ms="15416" started-at="2021-01-30T00:37:45 GST" description="User will be able to select second Image" finished-at="2021-01-30T00:38:01 GST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ThirdImage -->
+        <test-method status="PASS" signature="FourthImage()[pri:4, instance:com.ekar.tests.ekarTest@34b7ac2f]" name="FourthImage" duration-ms="15684" started-at="2021-01-30T00:38:01 GST" description="User will be able to select fourth Image" finished-at="2021-01-30T00:38:16 GST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FourthImage -->
+        <test-method status="PASS" signature="quitDriver()[pri:0, instance:com.ekar.tests.ekarTest@34b7ac2f]" name="quitDriver" is-config="true" duration-ms="178" started-at="2021-01-30T00:38:16 GST" finished-at="2021-01-30T00:38:16 GST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitDriver -->
+      </class> <!-- com.ekar.tests.ekarTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

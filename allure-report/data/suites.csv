@@ -1,0 +1,6 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sat Jan 30 00:38:01 GST 2021","Sat Jan 30 00:38:16 GST 2021","15672","Default suite","Default test","com.ekar.tests.ekarTest","com.ekar.tests.ekarTest","FourthImage","User will be able to select fourth Image",""
+"passed","Sat Jan 30 00:37:45 GST 2021","Sat Jan 30 00:38:01 GST 2021","15410","Default suite","Default test","com.ekar.tests.ekarTest","com.ekar.tests.ekarTest","ThirdImage","User will be able to select second Image",""
+"passed","Sat Jan 30 00:37:30 GST 2021","Sat Jan 30 00:37:45 GST 2021","15217","Default suite","Default test","com.ekar.tests.ekarTest","com.ekar.tests.ekarTest","SecondImage","User will be able to select second Image",""
+"passed","Sat Jan 30 00:37:05 GST 2021","Sat Jan 30 00:37:08 GST 2021","2642","Default suite","Default test","com.ekar.tests.ekarTest","com.ekar.tests.ekarTest","PinCheck","User will be able to tap on PIN",""
+"passed","Sat Jan 30 00:37:08 GST 2021","Sat Jan 30 00:37:30 GST 2021","21785","Default suite","Default test","com.ekar.tests.ekarTest","com.ekar.tests.ekarTest","FirstImage","User will be able to select first Image",""

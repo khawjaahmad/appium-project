@@ -1,0 +1,100 @@
+{
+  "uid" : "8c939a93bfa22560",
+  "name" : "User will be able to select fourth Image",
+  "fullName" : "com.ekar.tests.ekarTest.FourthImage",
+  "historyId" : "9291cc128d8258a6de98750d5afe8109",
+  "time" : {
+    "start" : 1611952681057,
+    "stop" : 1611952696729,
+    "duration" : 15672
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setup",
+    "time" : {
+      "start" : 1611952610737,
+      "stop" : 1611952625867,
+      "duration" : 15130
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "quitDriver",
+    "time" : {
+      "start" : 1611952696731,
+      "stop" : 1611952696908,
+      "duration" : 177
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "com.ekar.tests.ekarTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.ekar.tests.ekarTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "FourthImage"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Default suite"
+  }, {
+    "name" : "suite",
+    "value" : "Default test"
+  }, {
+    "name" : "subSuite",
+    "value" : "com.ekar.tests.ekarTest"
+  }, {
+    "name" : "host",
+    "value" : "DESIGNER23s-MBP"
+  }, {
+    "name" : "thread",
+    "value" : "28817@DESIGNER23s-MBP.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "feature",
+    "value" : "Complaint Feature"
+  }, {
+    "name" : "epic",
+    "value" : "Regression Test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8c939a93bfa22560.json",
+  "parameterValues" : [ ]
+}

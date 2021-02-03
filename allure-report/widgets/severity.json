@@ -1,0 +1,51 @@
+[ {
+  "uid" : "8910d6c06869db98",
+  "name" : "User will be able to select second Image",
+  "time" : {
+    "start" : 1611952650407,
+    "stop" : 1611952665624,
+    "duration" : 15217
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c95b51c388d865fd",
+  "name" : "User will be able to tap on PIN",
+  "time" : {
+    "start" : 1611952625917,
+    "stop" : 1611952628559,
+    "duration" : 2642
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+}, {
+  "uid" : "8c939a93bfa22560",
+  "name" : "User will be able to select fourth Image",
+  "time" : {
+    "start" : 1611952681057,
+    "stop" : 1611952696729,
+    "duration" : 15672
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "46aab6e14e69de8",
+  "name" : "User will be able to select second Image",
+  "time" : {
+    "start" : 1611952665633,
+    "stop" : 1611952681043,
+    "duration" : 15410
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "edbe5c40457bf3df",
+  "name" : "User will be able to select first Image",
+  "time" : {
+    "start" : 1611952628607,
+    "stop" : 1611952650392,
+    "duration" : 21785
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
